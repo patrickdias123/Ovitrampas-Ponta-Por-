@@ -53,6 +53,13 @@
     <script src="https://cdn.jsdelivr.net/gh/python-visualization/folium@main/folium/templates/leaflet_heat.min.js"></script>
 </head>
 <body>
+<div style="text-align:center; margin-bottom:15px;">
+  <img src="logo-pp.png" height="80">
+  <h1>Instalação de Ovitrampas em Ponta Porã - Janeiro de 2026</h1>
+  <div id="total-ovos" style="font-size:20px; font-weight:bold; color:#b30000;">
+    Total de ovos: 0
+  </div>
+</div>
     
     
             <div class="folium-map" id="map_c5cd19c008465cd5aab5b5a857c7dcff" ></div>
